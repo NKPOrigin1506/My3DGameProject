@@ -173,7 +173,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.90058, g: 0.9056604, b: 0.7723745, a: 1}
+  m_Color: {r: 0.77254903, g: 0.90588236, b: 0.83913857, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -595,7 +595,7 @@ GameObject:
   - component: {fileID: 1247520106}
   - component: {fileID: 1247520105}
   m_Layer: 5
-  m_Name: Credits
+  m_Name: Instructions
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -643,8 +643,7 @@ MonoBehaviour:
   m_text: 'Use Left/Right Arrow Keys or A/D keys to move the cube left or right.
 
     In
-    2.5D Minigame, use arrow keys or WASD keys to move the cube, and press Space
-    to Jump.
+    2.5D Minigame, press Space to Jump.
 
     Avoid obstacle!!!'
   m_isRightToLeft: 0
@@ -673,8 +672,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16.72
-  m_fontSizeBase: 16.72
+  m_fontSize: 20.05
+  m_fontSizeBase: 20.05
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
