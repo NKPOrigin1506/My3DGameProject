@@ -242,7 +242,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 259463433}
   m_LocalRotation: {x: -0.005846729, y: 0.0025307364, z: 0.000023503697, w: 0.99997973}
-  m_LocalPosition: {x: -1.9994923, y: 1.806878, z: -10.043251}
+  m_LocalPosition: {x: -2.0028534, y: 1.806878, z: -10.043235}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 438572394}
@@ -260,13 +260,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
       value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.4314387
+      value: 0.985461
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalScale.y
@@ -274,7 +278,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 99.1
+      value: 98.5158
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -557,13 +561,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
       value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.4314387
+      value: 0.9938409
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalScale.y
@@ -571,7 +579,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 77.2154
+      value: 76.4966
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -629,7 +637,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!65 &864094578
 BoxCollider:
@@ -718,6 +726,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -780,13 +792,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
       value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3.5244935
+      value: 2.8492005
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -794,7 +810,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.3994
+      value: 5.737
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -842,13 +858,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
       value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.4314387
+      value: 0.9891093
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalScale.y
@@ -856,7 +876,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 77.2154
+      value: 76.4942
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -906,6 +926,10 @@ PrefabInstance:
     - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_Name
       value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
@@ -963,6 +987,10 @@ PrefabInstance:
     - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_Name
       value: Obstacle (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
@@ -1024,6 +1052,10 @@ PrefabInstance:
     - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_Name
       value: Obstacle (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
@@ -1087,13 +1119,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
       value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.4314387
+      value: 0.99747986
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalScale.y
@@ -1101,7 +1137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 99.1
+      value: 98.5217
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1246,6 +1282,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Finish
       objectReference: {fileID: 0}
+    - target: {fileID: 7707811759364993765, guid: b736ea59bd79d464d92ed782264d4dee, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7707811759364993769, guid: b736ea59bd79d464d92ed782264d4dee, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -1310,6 +1350,10 @@ PrefabInstance:
     - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_Name
       value: Obstacle (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1164942858466858914, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1164942858466858917, guid: ef8023f5020162644be84362b8bcaa9c, type: 3}
       propertyPath: m_RootOrder
@@ -1439,7 +1483,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2045633897}
   m_LocalRotation: {x: -0.005846729, y: 0.0025307364, z: 0.000023503697, w: 0.99997973}
-  m_LocalPosition: {x: -1.9994923, y: 1.806878, z: -10.043251}
+  m_LocalPosition: {x: -2.0028534, y: 1.806878, z: -10.043235}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
